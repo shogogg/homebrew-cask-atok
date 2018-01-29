@@ -1,9 +1,9 @@
 cask 'atok-passport' do
-  version '2016'
-  sha256 'bda513644013a35c352624f74b4b918f35650e9a88155ecc758d978cddb1a9ae'
+  version '2017'
+  sha256 'f5a292543e2b15bd905d654bd5623b154ec311da071033556a03da3574971b83'
   
-  url 'https://gate.justsystems.com/download/atok/ut/mac/at29try.dmg'
-  name 'ATOK 2016'
+  url 'https://gate.justsystems.com/download/atok/ut/mac/at30try.dmg'
+  name 'ATOK 2017'
   homepage 'http://atok.com/'
   license :commercial
   
