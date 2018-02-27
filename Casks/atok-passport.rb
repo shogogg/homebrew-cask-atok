@@ -5,7 +5,6 @@ cask 'atok-passport' do
   url 'https://gate.justsystems.com/download/atok/ut/mac/at30try.dmg'
   name 'ATOK 2017'
   homepage 'http://atok.com/'
-  license :commercial
   
   pkg "ATOK #{version} インストーラ.pkg"
   
